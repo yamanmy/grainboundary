@@ -9,5 +9,7 @@ Example Images
 
 Ground Truth
 
-![ground](example_images/ground_truth1.png | width=100)
+![ground](example_images/ground_truth1.png)
+
+<img src="example_images/ground_truth1.png"  width="200" height="200">
 
