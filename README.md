@@ -2,12 +2,12 @@
 finding a grain boundary in images of perovskite thin films
 
 
-###Example Images
+##Example Images
 
 ![examples](example_images/example1.png)
 
 
-###Ground Truth
+##Ground Truth
 
-<img src="/example_images/ground_truth1.png",width='500'>
+![ground](example_images/ground_truth1.png,width='500')
 
